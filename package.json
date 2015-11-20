@@ -1,0 +1,8 @@
+{
+  "name": "react-native-yankai-refresh",
+  "version": "1.0.0",
+  "description": "only souport android",
+  "main": "index.js",
+  "author": "yankai",
+  "license": "MIT"
+}
